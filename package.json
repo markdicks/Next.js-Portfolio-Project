@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "description": "A modern portfolio application built with Next.js and Three.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -29,5 +30,9 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VenusChappie/Next.js-Portfolio-Project.git"
   }
 }
